@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pauloemc2
 - 👀 I’m interested in coding and technology
-- 🌱 I’m currently learning the basics of web development (HTML/CSS and JavaScript) and Python
+- 🌱 I’m currently learning the basics of web development (HTML / CSS / JavaScript) and Python
 - 💞️ I’m looking to collaborate on all kinds of interesting projects and ideas
 - 📫 If you wish to reach me, you can send an email to paulof.emc2@gmail.com
 
